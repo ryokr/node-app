@@ -1,5 +1,6 @@
 NodeJS Application -  Final Project
 
+```
 /node-ecom
 ├── /backend
 │   ├── /config        # Configuration files (e.g., DB, env)
@@ -23,4 +24,4 @@ NodeJS Application -  Final Project
 │   ├── docker-compose.yml   # Docker Compose config
 │   ├── Dockerfile.backend   # Dockerfile for backend
 │   └── Dockerfile.frontend  # Dockerfile for frontend
-
+```
